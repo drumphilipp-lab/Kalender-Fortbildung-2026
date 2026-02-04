@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Notfallmedizin//Einzeltermin//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:20260203-blutungsmanagement@notfallmedizin
+SUMMARY:Online-Fortbildung: Blutungsmanagement: Kompression, Knebeln oder Kleben?
+DTSTART:20260203T183000
+DTEND:20260203T200000
+END:VEVENT
+END:VCALENDAR

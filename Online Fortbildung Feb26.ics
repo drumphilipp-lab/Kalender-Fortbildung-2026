@@ -1,0 +1,6 @@
+BEGIN:VEVENT
+UID:20260226-0730-komplexe-einsaetze@notfallmedizin
+SUMMARY:Online-Fortbildung: Komplexe Einsätze im Rettungsdienst \(Morgen\)
+DTSTART;TZID=Europe/Berlin:20260226T073000
+DTEND;TZID=Europe/Berlin:20260226T081500
+END:VEVENT
